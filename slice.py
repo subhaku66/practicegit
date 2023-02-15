@@ -11,6 +11,7 @@ print(len(a))
 print(a[0:7:3]) # slice(start:end:step)
 
 b=[10,20,23,24,25,26,27,282,292,30]
+print(b)
 print(b[0:2])
 print(b[-4:])
 print(len(b))
