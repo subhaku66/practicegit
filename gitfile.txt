@@ -1,3 +1,2 @@
 mkdir
 mv
-cp
